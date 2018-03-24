@@ -1,0 +1,15 @@
+* {
+	background-color: #137083;
+}
+
+h1 {
+	text-align: center;
+	font-family: helvetica;
+}
+
+.container {
+	background-color: #FAE3E3;
+	margin: 70px 200px;
+	height: 500px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
